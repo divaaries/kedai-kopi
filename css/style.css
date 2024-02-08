@@ -13,7 +13,7 @@
 }
 
 html {
-    scroll-behavior: smooth;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -313,12 +313,12 @@ footer .links a {
 }
 
 footer .credit {
-    font-size: 0.8rem;
+  font-size: 0.8rem;
 }
 
 footer .credit a {
-    color: var(--bg);
-    font-weight: 700;
+  color: var(--bg);
+  font-weight: 700;
 }
 
 /* Media Queries */
